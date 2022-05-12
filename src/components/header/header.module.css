@@ -1,0 +1,6 @@
+.header {
+  box-shadow: 0 2px 4px rgb(0 0 0 / 11%);
+  background-color: white;
+  padding: 15px 30px;
+  z-index: 2;
+}

@@ -1,0 +1,7 @@
+.listing-card-list-wrapper {
+  background-color: var(--pg-grey);
+}
+
+.listing-card-list {
+  padding: 40px 0;
+}
